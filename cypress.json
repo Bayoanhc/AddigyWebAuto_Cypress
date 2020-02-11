@@ -1,6 +1,6 @@
 {
     "video" : true,
+    "chromeWebSecurity" : false,
     "_comment": "viewportWidth 1200",
-    "_comment": "viewportHeight 800",
-    "_comment": "chromeWebSecurity false"
+    "_comment": "viewportHeight 800"
 }
